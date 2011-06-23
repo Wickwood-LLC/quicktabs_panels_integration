@@ -1,0 +1,6 @@
+; $Id$
+name = Quicktabs Content
+dependencies[] = views_content
+description = Provides Panels integration so Panels' contexts and arguments can be passed to Quicktabs Views' tabs.
+package = BuildingGreen
+core = 6.x
